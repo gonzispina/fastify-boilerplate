@@ -15,7 +15,7 @@ Endpoint for testing:
 curl http://localhost/api/v1/ping
 ```
 
-*Note: Compression and CORS headers has been delegated to nginx*
+*Note: Compression and CORS headers had been delegated to nginx*
 
 To run with nginx reverse proxy run :
 ``` bash
