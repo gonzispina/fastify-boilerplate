@@ -7,6 +7,7 @@ Fastify Template
 - [Fastify](https://www.fastify.io/)
 
 Future features:
+- OAS3
 - MongoDB
 - Redis
 
