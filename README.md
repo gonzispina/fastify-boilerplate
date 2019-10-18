@@ -1,4 +1,7 @@
 # fastify-boilerplate
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
 Fastify Template
 
 - [Fastify](https://www.fastify.io/)
@@ -12,7 +15,7 @@ Endpoint for testing:
 curl http://localhost/api/v1/ping
 ```
 
-*Note: Compression and CORS headers has been delegated to nginx*
+*Note: Compression and CORS headers had been delegated to nginx*
 
 To run with nginx reverse proxy run :
 ``` bash
